@@ -1,2 +1,2 @@
 # deep-learning-with-keras
-Deep Learning with Keras
+『直感 Deep Learning』を読んで実装したもののリポジトリ
